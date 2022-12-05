@@ -10,3 +10,53 @@
 I spend a lot of time educating myself.  
 Purposeful, responsible, attentive.  
 I strive for development and professional growth.
+
+## **SKILLS**  
+**Languages:**   
+* HTML / Pug  
+* CSS / SCSS  
+* JavaScript / TypeScript   
+
+**Libraries:**
+* React
+* Redux   
+* jQuery  
+* Bootstrap 4  
+* Masonry   
+
+**Plugins / components:**   
+* Slick Slider     
+* ddSlick  
+* Air Datepicker
+* Magnific Popup
+
+**Services:**   
+* Google Fonts      
+* Font Awesome  
+* Flaticon   
+* IcoMoon    
+* Google Maps (Maps JS API)  
+* API Яндекс.Карт   
+
+**Tools:**   
+* Brackets
+* VS Code
+* PhpStorm   
+* Adobe Photoshop  
+* Figma  
+* Adobe XD  
+* Avocode   
+* Snazzy Maps
+* Webpack
+* Gulp
+
+**CMS:**
+* WordPress
+* 1С-Битрикс
+
+**Others:**   
+* Node.js / npm  
+* Git / GitHub / GitLab
+* methodology BEM
+* MVC
+* SVG
