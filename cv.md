@@ -60,3 +60,12 @@ I strive for development and professional growth.
 * methodology BEM
 * MVC
 * SVG
+
+## **EXAMPLE OF CODE** 
+```     
+   <div class="face">        
+      <h1 class="face_title">New Automation Tool for Your Home</h1>       
+      <p class="face_text">Lorem ipsum dolor sit amet.</p>
+      <a href="#" class="face_btn btn">See Our Project</a>
+   </div>	
+```
