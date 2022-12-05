@@ -69,3 +69,25 @@ I strive for development and professional growth.
       <a href="#" class="face_btn btn">See Our Project</a>
    </div>	
 ```
+
+## **EXPERIENCE** 
+**Linevsystems:**  [linevsystems.com](https://linevsystems.com)
+**Linevinnovations:**  [linevinnovations.com](https://linevinnovations.com)
+**Agrimatco:**  [agrimatco.by](https://agrimatco.by)
+**Niva:**  [niva.by/](https://niva.by)
+**BPS:**  [bps.by/](http://bps.by)
+**UDMS:**  [udms.devx.db.by/](http://udms.devx.db.by)
+**Nike:**  [https://github.com/zena86/nike](https://github.com/zena86/nike)   
+**Jetro:** [https://github.com/zena86/jetro](https://github.com/zena86/jetro)  
+**STEAM:** [https://github.com/zena86/ste-am](https://github.com/zena86/ste-am)  
+**Visit Bahari:** [https://github.com/zena86/visit-bahari](https://github.com/zena86/visit-bahari)  
+**Lets Get Lost:** [https://github.com/zena86/lets-get-lost](https://github.com/zena86/lets-get-lost)  
+**Avenue fashion:** [https://github.com/zena86/avenue-fashion](https://github.com/zena86/avenue-fashion)  
+**Pinball:** [https://github.com/zena86/pinball](https://github.com/zena86/pinball)     
+**Firefly:** [https://github.com/zena86/firefly](https://github.com/zena86/firefly)    
+**covid19forecast:** [https://github.com/zena86/covid-forecast](https://github.com/zena86/covid-forecast)  
+**Сovid-19:** [https://github.com/zena86/covid-19](https://github.com/zena86/covid-19)  
+**Freelancer:** [https://github.com/zena86/freelancer](https://github.com/zena86/freelancer)     
+**Сolor:** [https://github.com/zena86/color](https://github.com/zena86/color)  
+**Safari Tour:** [https://github.com/zena86/safari-tour](https://github.com/zena86/safari-tour)  
+**Guyon:** [https://github.com/zena86/guyon](https://github.com/zena86/guyon)
