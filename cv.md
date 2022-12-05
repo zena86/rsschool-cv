@@ -71,12 +71,12 @@ I strive for development and professional growth.
 ```
 
 ## **EXPERIENCE** 
-**Linevsystems:**  [linevsystems.com](https://linevsystems.com)
-**Linevinnovations:**  [linevinnovations.com](https://linevinnovations.com)
-**Agrimatco:**  [agrimatco.by](https://agrimatco.by)
-**Niva:**  [niva.by/](https://niva.by)
-**BPS:**  [bps.by/](http://bps.by)
-**UDMS:**  [udms.devx.db.by/](http://udms.devx.db.by)
+**Linevsystems:**  [linevsystems.com](https://linevsystems.com) 
+**Linevinnovations:**  [linevinnovations.com](https://linevinnovations.com) 
+**Agrimatco:**  [agrimatco.by](https://agrimatco.by) 
+**Niva:**  [niva.by/](https://niva.by) 
+**BPS:**  [bps.by/](http://bps.by) 
+**UDMS:**  [udms.devx.db.by/](http://udms.devx.db.by) 
 **Nike:**  [https://github.com/zena86/nike](https://github.com/zena86/nike)   
 **Jetro:** [https://github.com/zena86/jetro](https://github.com/zena86/jetro)  
 **STEAM:** [https://github.com/zena86/ste-am](https://github.com/zena86/ste-am)  
