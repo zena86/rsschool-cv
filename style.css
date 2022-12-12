@@ -114,13 +114,12 @@ a:hover {
 }
 
 /*Title section*/
-
-.title_box {
+.title__box {
   border-bottom: solid 1px rgb(185, 192, 198);
   display: flex;
   margin-bottom: 30px;
 }
-.title_name {
+.title__name {
   font-family: "Open Sans", sans-serif;
   font-size: 26px;
   font-weight: 700;
@@ -128,6 +127,6 @@ a:hover {
   color: #314a5b;
   margin-top: 6px;
 }
-.title_icon {
+.title__icon {
   padding-top: 7px;
 }
