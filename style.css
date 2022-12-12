@@ -87,3 +87,47 @@ a:hover {
   margin-right: 15px;
   color: #9aa0ab;
 }
+
+/*ABOUT*/
+.about__body {
+  display: flex;
+}
+.about__right {
+  flex-basis: 23%;
+  min-width: 230px;
+}
+.about__left {
+  flex-basis: 77%;
+}
+.text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  color: #9aa0ab;
+}
+.subtitle {
+  font-weight: 700;
+}
+.title-project {
+  margin-bottom: 5px;
+}
+
+/*Title section*/
+
+.title_box {
+  border-bottom: solid 1px rgb(185, 192, 198);
+  display: flex;
+  margin-bottom: 30px;
+}
+.title_name {
+  font-family: "Open Sans", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  margin-left: 20px;
+  color: #314a5b;
+  margin-top: 6px;
+}
+.title_icon {
+  padding-top: 7px;
+}
