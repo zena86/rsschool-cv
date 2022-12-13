@@ -1,16 +1,22 @@
+:root {
+  --brand-1: rgb(49, 74, 91);
+  --brand-2: rgb(154, 160, 171);
+  --accent: rgb(250, 92, 101);
+}
 * {
   margin: 0;
   padding: 0;
 }
 ul li {
   list-style: none;
+  margin-bottom: 5px;
 }
 .container {
   max-width: 900px;
   margin: 0 auto;
 }
-.sect {
-  margin-bottom: 50px;
+section {
+  padding: 20px 0;
 }
 .row {
   display: flex;
@@ -19,17 +25,18 @@ ul li {
 .col-left {
   flex-basis: 23%;
   min-width: 230px;
-  padding-right: 30px;
+  padding-right: 50px;
 }
 .col-right {
   flex-basis: 77%;
 }
 
 .text {
+  margin-bottom: 5px;
   font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  line-height: 22px;
-  color: rgb(154, 160, 171);
+  font-size: 18px;
+  line-height: 1.5;
+  color: var(--brand-2);
 }
 
 .subtitle {
@@ -37,10 +44,6 @@ ul li {
 }
 
 /*WELCOME*/
-
-.welcome {
-  padding: 20px;
-}
 .welcome__body {
   display: flex;
   justify-content: space-between;
@@ -66,7 +69,7 @@ ul li {
   font-size: 46px;
   font-weight: 700;
   line-height: 53px;
-  color: #314a5b;
+  color: var(--brand-1);
   margin-bottom: 10px;
 }
 .welcome__profession {
@@ -74,18 +77,20 @@ ul li {
   font-size: 24px;
   font-weight: 600;
   line-height: 40px;
-  color: #314a5b;
+  color: var(--brand-1);
   margin-bottom: 50px;
 }
 a {
   text-decoration: none;
+  color: var(--brand-2);
+  transition: all 0.3 ease;
 }
 a:hover {
-  text-decoration: underline;
+  color: var(--accent);
 }
-.welcome__contacts i {
+i {
   margin-right: 15px;
-  color: #9aa0ab;
+  margin-bottom: 5px;
 }
 
 /*ABOUT*/
@@ -101,21 +106,21 @@ a:hover {
 }
 .text {
   font-family: "Open Sans", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 22px;
-  color: #9aa0ab;
+  color: var(--brand-2);
 }
 .subtitle {
   font-weight: 700;
 }
 .title-project {
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 /*Title section*/
 .title__box {
-  border-bottom: solid 1px rgb(185, 192, 198);
+  border-bottom: solid 1px var(--brand-2);
   display: flex;
   margin-bottom: 30px;
 }
@@ -124,11 +129,25 @@ a:hover {
   font-size: 26px;
   font-weight: 700;
   margin-left: 20px;
-  color: #314a5b;
+  color: var(--brand-1);
   margin-top: 6px;
 }
 .title__icon {
   padding-top: 7px;
+}
+
+/*Portfolio*/
+
+.portfolio article {
+  margin-bottom: 30px;
+}
+.portfolio article:last-child {
+  margin-bottom: 0;
+}
+.portfolio article img {
+  border: 1px solid var(--brand-2);
+  margin-bottom: 10px;
+  max-width: 230px;
 }
 
 /*Code*/
@@ -139,6 +158,6 @@ pre {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: #9aa0ab;
+  color: var(--brand-2);
   width: 100%;
 }
