@@ -16,8 +16,9 @@ ul li {
   margin-bottom: 5px;
 }
 .container {
-  max-width: 900px;
+  max-width: 960px;
   margin: 0 auto;
+  padding: 0 30px;
 }
 section {
   padding: 20px 0;
@@ -34,7 +35,6 @@ section {
 .col-right {
   flex-basis: 77%;
 }
-
 .text {
   margin-bottom: 5px;
   font-family: "Open Sans", sans-serif;
@@ -42,7 +42,6 @@ section {
   line-height: 1.5;
   color: var(--brand-1);
 }
-
 .subtitle {
   font-weight: 700;
 }
@@ -86,6 +85,8 @@ section {
   position: relative;
   width: 250px;
   height: 250px;
+  min-width: 250px;
+  min-height: 250px;
 }
 .welcome__photo img {
   position: absolute;
@@ -244,4 +245,79 @@ pre {
 
 .footer i {
   margin-bottom: 0;
+}
+
+@media (max-width: 900px) {
+  .container {
+    max-width: 650px;
+  }
+  .row {
+    flex-direction: column;
+  }
+  .welcome .col-left {
+    margin-bottom: 20px;
+  }
+  .col-left {
+    padding-right: 0;
+  }
+  .portfolio article {
+    margin-bottom: 40px;
+  }
+  .portfolio article img {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .menu__item {
+    margin-left: 15px;
+  }
+}
+
+@media (max-width: 576px) {
+  .welcome__body {
+    flex-direction: column-reverse;
+  }
+  .welcome__name,
+  .welcome__profession {
+    text-align: center;
+  }
+  .welcome__photo {
+    margin-bottom: 30px;
+  }
+  .menu__list {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .footer__body {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .footer__left {
+    margin-bottom: 30px;
+  }
+
+  .footer .text {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 360px) {
+  .container {
+    padding: 0 20px;
+  }
+
+  i {
+    margin-right: 5px;
+  }
+
+  section {
+    padding: 5px 0;
+  }
+}
+
+@media (max-width: 319px) {
+  .text {
+    font-size: 16px;
+  }
 }
