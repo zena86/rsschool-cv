@@ -130,3 +130,15 @@ a:hover {
 .title__icon {
   padding-top: 7px;
 }
+
+/*Code*/
+pre {
+  margin: -30px 0 0 0;
+}
+.code {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #9aa0ab;
+  width: 100%;
+}
